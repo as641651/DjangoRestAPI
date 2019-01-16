@@ -6,4 +6,4 @@
 
 > Deployment in Docker container
 
-### Credits to [Mark Winterbottom](https://www.londonappdeveloper.com/about/) from Udemy. 
+Credits to [Mark Winterbottom](https://www.londonappdeveloper.com/about/) from Udemy. 
