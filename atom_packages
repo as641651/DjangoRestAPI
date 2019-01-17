@@ -1,0 +1,3 @@
+apm install atom-django
+apm install language-docker
+apm install linter-flake8
