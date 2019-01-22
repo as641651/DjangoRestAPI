@@ -8,4 +8,6 @@
 
 > Using Custom Django User model and modifying the admin interface
 
+> Creating APIs to handle all REST requests to database
+
 Credits to [Mark Winterbottom](https://www.londonappdeveloper.com/about/) from Udemy. 
