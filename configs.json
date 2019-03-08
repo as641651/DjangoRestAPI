@@ -1,163 +1,163 @@
 {
     "00_DockerSetup.ipynb": {
         "code_url": "https://github.com/as641651/DjangoAPI-TravisCI-submodule",
-        "page_id": 501,
+        "page_id": 93401,
         "page_name": "00_DockerSetup",
         "pdf": false
     },
     "01_TravisCI_Flake_integration.ipynb": {
         "code_url": "https://github.com/as641651/DjangoAPI-TravisCI-submodule",
-        "page_id": 502,
+        "page_id": 93402,
         "page_name": "01_TravisCI_Flake_integration",
         "pdf": false
     },
     "02_UnitTesting.ipynb": {
         "code_url": "https://github.com/as641651/DjangoAPI-TravisCI-submodule",
-        "page_id": 503,
+        "page_id": 93403,
         "page_name": "02_UnitTesting",
         "pdf": false
     },
     "03_Django_user_models.ipynb": {
         "code_url": "https://github.com/as641651/DjangoAPI-TravisCI-submodule",
-        "page_id": 504,
+        "page_id": 93404,
         "page_name": "03_Django_user_models",
         "pdf": false
     },
     "04_TestDrivenDevelopment.ipynb": {
         "code_url": "https://github.com/as641651/DjangoAPI-TravisCI-submodule",
-        "page_id": 505,
+        "page_id": 93405,
         "page_name": "04_TestDrivenDevelopment",
         "pdf": false
     },
     "05_Modifying_DjangoAdminInterface.ipynb": {
         "code_url": "https://github.com/as641651/DjangoAPI-TravisCI-submodule",
-        "page_id": 506,
+        "page_id": 93406,
         "page_name": "05_Modifying_DjangoAdminInterface",
         "pdf": false
     },
     "06_DockerTips_SettingUp_Postgres_backend.ipynb": {
         "code_url": "https://github.com/as641651/DjangoAPI-TravisCI-submodule",
-        "page_id": 507,
+        "page_id": 93407,
         "page_name": "06_DockerTips_SettingUp_Postgres_backend",
         "pdf": false
     },
     "07_Django_custom_command.ipynb": {
         "code_url": "https://github.com/as641651/DjangoAPI-TravisCI-submodule",
-        "page_id": 508,
+        "page_id": 93408,
         "page_name": "07_Django_custom_command",
         "pdf": false
     },
     "08_Mocking_with_patch.ipynb": {
         "code_url": "https://github.com/as641651/DjangoAPI-TravisCI-submodule",
-        "page_id": 509,
+        "page_id": 93409,
         "page_name": "08_Mocking_with_patch",
         "pdf": false
     },
     "09_Command_to_wait_for_db.ipynb": {
         "code_url": "https://github.com/as641651/DjangoAPI-TravisCI-submodule",
-        "page_id": 510,
+        "page_id": 93410,
         "page_name": "09_Command_to_wait_for_db",
         "pdf": false
     },
     "10_API_to_create_users.ipynb": {
         "code_url": "https://github.com/as641651/DjangoAPI-TravisCI-submodule",
-        "page_id": 511,
+        "page_id": 93411,
         "page_name": "10_API_to_create_users",
         "pdf": false
     },
     "11_API_to_validateUsers_n_generateToken.ipynb": {
         "code_url": "https://github.com/as641651/DjangoAPI-TravisCI-submodule",
-        "page_id": 512,
+        "page_id": 93412,
         "page_name": "11_API_to_validateUsers_n_generateToken",
         "pdf": false
     },
     "12_API_to_retrieve_and_Update_userSpecificContents.ipynb": {
         "code_url": "https://github.com/as641651/DjangoAPI-TravisCI-submodule",
-        "page_id": 513,
+        "page_id": 93413,
         "page_name": "12_API_to_retrieve_and_Update_userSpecificContents",
         "pdf": false
     },
     "13_Create_model_with_ForeignKey_DefaultUserModel.ipynb": {
         "code_url": "https://github.com/as641651/DjangoAPI-TravisCI-submodule",
-        "page_id": 514,
+        "page_id": 93414,
         "page_name": "13_Create_model_with_ForeignKey_DefaultUserModel",
         "pdf": false
     },
     "14_ViewSets_and_Request_Mixins.ipynb": {
         "code_url": "https://github.com/as641651/DjangoAPI-TravisCI-submodule",
-        "page_id": 515,
+        "page_id": 93415,
         "page_name": "14_ViewSets_and_Request_Mixins",
         "pdf": false
     },
     "15_API_Ingredients_end_point.ipynb": {
         "code_url": "https://github.com/as641651/DjangoAPI-TravisCI-submodule",
-        "page_id": 516,
+        "page_id": 93416,
         "page_name": "15_API_Ingredients_end_point",
         "pdf": false
     },
     "16_Creating_models_with_manyToMany_fields.ipynb": {
         "code_url": "https://github.com/as641651/DjangoAPI-TravisCI-submodule",
-        "page_id": 517,
+        "page_id": 93417,
         "page_name": "16_Creating_models_with_manyToMany_fields",
         "pdf": false
     },
     "17_Serializers_for_nested_objects.ipynb": {
         "code_url": "https://github.com/as641651/DjangoAPI-TravisCI-submodule",
-        "page_id": 518,
+        "page_id": 93418,
         "page_name": "17_Serializers_for_nested_objects",
         "pdf": false
     },
     "18_CustomCode_for_different_requests_in_viewset.ipynb": {
         "code_url": "https://github.com/as641651/DjangoAPI-TravisCI-submodule",
-        "page_id": 519,
+        "page_id": 93419,
         "page_name": "18_CustomCode_for_different_requests_in_viewset",
         "pdf": false
     },
     "19_API_RecipeEndPoint.ipynb": {
         "code_url": "https://github.com/as641651/DjangoAPI-TravisCI-submodule",
-        "page_id": 520,
+        "page_id": 93420,
         "page_name": "19_API_RecipeEndPoint",
         "pdf": false
     },
     "20_Setup_MediaDirectory.ipynb": {
         "code_url": "https://github.com/as641651/DjangoAPI-TravisCI-submodule",
-        "page_id": 521,
+        "page_id": 93421,
         "page_name": "20_Setup_MediaDirectory",
         "pdf": false
     },
     "21_ImageField_in_the_model.ipynb": {
         "code_url": "https://github.com/as641651/DjangoAPI-TravisCI-submodule",
-        "page_id": 522,
+        "page_id": 93422,
         "page_name": "21_ImageField_in_the_model",
         "pdf": false
     },
     "22_API_UploadingImage_CustomActions.ipynb": {
         "code_url": "https://github.com/as641651/DjangoAPI-TravisCI-submodule",
-        "page_id": 523,
+        "page_id": 93423,
         "page_name": "22_API_UploadingImage_CustomActions",
         "pdf": false
     },
     "23_Accessing_query_fields.ipynb": {
         "code_url": "https://github.com/as641651/DjangoAPI-TravisCI-submodule",
-        "page_id": 524,
+        "page_id": 93424,
         "page_name": "23_Accessing_query_fields",
         "pdf": false
     },
     "24_QuerySetFilters_SQL_queries.ipynb": {
         "code_url": "https://github.com/as641651/DjangoAPI-TravisCI-submodule",
-        "page_id": 525,
+        "page_id": 93425,
         "page_name": "24_QuerySetFilters_SQL_queries",
         "pdf": false
     },
     "25_API_for_querying_DB.ipynb": {
         "code_url": "https://github.com/as641651/DjangoAPI-TravisCI-submodule",
-        "page_id": 526,
+        "page_id": 93426,
         "page_name": "25_API_for_querying_DB",
         "pdf": false
     },
     "Using_GitSubmodules.ipynb": {
         "code_url": "https://github.com/as641651/DjangoAPI-TravisCI-submodule",
-        "page_id": 527,
+        "page_id": 93427,
         "page_name": "Using_GitSubmodules",
         "pdf": false
     },
@@ -193,6 +193,7 @@
         "25_API_for_querying_DB.ipynb",
         "Using_GitSubmodules.ipynb"
     ],
-    "module_id": 500,
-    "module_name": "DjangoRestAPI"
+    "module_id": 93400,
+    "module_name": "DjangoRestAPI",
+    "tags": "DB"
 }

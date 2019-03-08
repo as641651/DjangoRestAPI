@@ -4,7 +4,8 @@ import json
 ## Arguments
 NOTEBOOK_DIR = ""
 DIR_STATIC = "files"
-MODULE_ID = 500
+MODULE_ID = 93400
+TAGS = "DB"
 COMMON_CODE_URL = "https://github.com/as641651/DjangoAPI-TravisCI-submodule"
 AUTHOR = "Aravind Sankaran"
 
@@ -22,7 +23,7 @@ configs["dir_static"] = DIR_STATIC
 configs["module_name"] = MODULE_NAME
 configs["module_id"] = MODULE_ID
 configs["author"] = AUTHOR
-
+configs["tags"] = TAGS
 
 def get_list_all_files_name(dir_path):
     all_files_path = []
